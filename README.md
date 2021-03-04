@@ -1,2 +1,2 @@
-# Compare-to
+# Compareto
 Use compare to 
